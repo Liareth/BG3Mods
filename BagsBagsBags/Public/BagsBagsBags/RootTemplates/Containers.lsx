@@ -26,7 +26,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_ScrollCase" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_ScrollCase" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_ScrollCase" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_ScrollCase" />
 					<attribute id="MapKey" type="FixedString" value="38cc1292-4b83-4288-8db4-98e1d5b82b1c" />
 					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
@@ -43,7 +43,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_PotionPouch" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_PotionPouch" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_PotionPouch" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_PotionPouch" />
 					<attribute id="MapKey" type="FixedString" value="1cd6e5ba-a27c-4b1e-91de-724105946f5f" />
 					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
@@ -60,7 +60,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_JewelleryCase" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_JewelleryCase" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_JewelleryCase" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_JewelleryCase" />
 					<attribute id="MapKey" type="FixedString" value="828acd0e-1f88-4f7d-97c3-b346237bc7c1" />
 					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
@@ -75,7 +75,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_ArmorBag" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_ArmorBag" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_ArmorBag" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_ArmorBag" />
 					<attribute id="MapKey" type="FixedString" value="dcb6918a-91ee-4209-aae9-10c893930cb5" />
 					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
@@ -90,7 +90,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_BootsBag" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_BootsBag" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_BootsBag" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_BootsBag" />
 					<attribute id="MapKey" type="FixedString" value="c8657380-dadc-4dac-a69d-2de656e01156" />
 					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
@@ -105,7 +105,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_CloakBag" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_CloakBag" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_CloakBag" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_CloakBag" />
 					<attribute id="MapKey" type="FixedString" value="a2fd9570-cef9-49d6-8c11-6087d839b59b" />
 					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
@@ -120,7 +120,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_GlovesBag" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_GlovesBag" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_GlovesBag" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_GlovesBag" />
 					<attribute id="MapKey" type="FixedString" value="14124102-9c50-4b9e-af1d-a3abd0e19879" />
 					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
@@ -135,7 +135,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_HelmBag" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_HelmBag" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_HelmBag" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_HelmBag" />
 					<attribute id="MapKey" type="FixedString" value="3b58ce2b-0603-4127-8c24-48eb5318a185" />
 					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
@@ -150,7 +150,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_ShieldBag" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_ShieldBag" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_ShieldBag" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_ShieldBag" />
 					<attribute id="MapKey" type="FixedString" value="f0f6066d-1435-4adf-bfc9-c09dcd03756d" />
 					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
@@ -165,7 +165,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_WeaponBag" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_WeaponBag" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_WeaponBag" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_WeaponBag" />
 					<attribute id="MapKey" type="FixedString" value="9674157a-e9b9-4979-ad0f-ed3408e99207" />
 					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
@@ -180,7 +180,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_Arrows" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_Arrows" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_Arrows" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_Arrows" />
 					<attribute id="MapKey" type="FixedString" value="c8b08a44-7385-4c8b-b11a-c28adaf8ca10" />
 					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
@@ -197,7 +197,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_Books" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_Books" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_Books" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_Books" />
 					<attribute id="MapKey" type="FixedString" value="174020dd-4f32-4701-937e-32a1889d6f32" />
 					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
@@ -214,7 +214,7 @@
 				<node id="GameObjects">
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_ClothesBundle" />
-					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_ClothesBundle" /> 
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_ClothesBundle" /> 
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_ClothesBundle" />
 					<attribute id="MapKey" type="FixedString" value="9631162b-5121-4b83-bd68-3983474cc09a" />
 					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
