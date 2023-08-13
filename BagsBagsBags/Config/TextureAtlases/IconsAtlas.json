@@ -19,6 +19,10 @@
         "Item_CONT_GEN_LIA_WeaponBag",
         "Item_CONT_GEN_LIA_Arrows",
         "Item_CONT_GEN_LIA_Books",
-        "Item_CONT_GEN_LIA_ClothesBundle"
+        "Item_CONT_GEN_LIA_ClothesBundle",
+        "Item_CONT_GEN_LIA_BitsAndBobs",
+        "Item_CONT_GEN_LIA_GrenadeSatchel",
+        "Item_CONT_GEN_LIA_Keepsakes",
+        "Item_CONT_GEN_LIA_Poisons"
     ]
 }

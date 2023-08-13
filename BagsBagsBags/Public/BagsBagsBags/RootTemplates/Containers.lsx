@@ -226,6 +226,70 @@
 						<node id="InventoryList" />
 					</children>
 				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_BitsAndBobs" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_BitsAndBobs" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_BitsAndBobs" />
+					<attribute id="MapKey" type="FixedString" value="53fbc1c8-2aef-45ad-a22b-471515fb0027" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="h4019c4a4gc313g5425ga81ag028e4c85b7e2" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h8e6d9a68g7b84g5734g80d5gb5b6e2561f48" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h537d7df1g7289g5d46g9141gfa5c7260e108" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_GrenadeSatchel" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_GrenadeSatchel" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_GrenadeSatchel" />
+					<attribute id="MapKey" type="FixedString" value="d36cdb48-5d94-46cc-81d3-c53ed5b59429" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="hb7e0db4dg8f91g5c2fg8509g4e6a6aeb2193" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ha80b4c4eg65d3g53f2gbe39gac8d76f54007" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h40f1c123g94d1g57a3ga62bg4f2f3916d7c5" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ALCH_SOLUTION_GRENADE') or Tagged('EXPLOSIVES')" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_Keepsakes" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_Keepsakes" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_Keepsakes" />
+					<attribute id="MapKey" type="FixedString" value="9280a9a3-d88a-4234-8225-2c16fc10422b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="h27c8de2bg0f38g5f0cg853cg71ee29c490ab" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h95ebbf00gbc92g5139g8d25gab6f69e431f6" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h752d7900g09e6g59b6ga57fg8e3f2c3501fd" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_Poisons" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_Poisons" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_Poisons" />
+					<attribute id="MapKey" type="FixedString" value="97788c3e-1b3d-474a-a030-6414315c6a50" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="h13f3de0bg14f6g5a3ag95f3ga8f9b8db9e79" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hc7a6d4f7g3d48g5e74g812dg35d76be92a15" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hfe6b5a3ag8b12g5631gb3a3g2a0a90bf3726" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ALCH_SOLUTION_COATING')" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>

@@ -25,6 +25,14 @@ new subtable "1,1"
 object category "I_OBJ_LIA_Books",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_LIA_ClothesBundle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_BitsAndBobs",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_GrenadeSatchel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_Keepsakes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_Poisons",1,0,0,0,0,0,0,0
 
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
@@ -33,10 +41,10 @@ object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_Entrance_Trade"
 CanMerge 1
-new subtable "1,1"
+new subtable "4,1"
 object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_Danthelon_Trader"
 CanMerge 1
-new subtable "1,1"
+new subtable "4,1"
 object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
