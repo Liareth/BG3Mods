@@ -1,0 +1,42 @@
+new treasuretable "LIA_Treasure_Bags"
+new subtable "1,1"
+object category "I_OBJ_LIA_JewelleryCase",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_PotionPouch",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_ScrollCase",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_ArmorBag",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_BootsBag",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_CloakBag",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_GlovesBag",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_HelmBag",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_ShieldBag",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_WeaponBag",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_Arrows",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_Books",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_ClothesBundle",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0

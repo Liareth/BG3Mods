@@ -1,0 +1,24 @@
+{
+    "Type": 0,
+    "AtlasBasePath": "Public/BagsBagsBags",
+    "AtlasLsfPath": "GUI",
+    "AtlasDdsPath": "Assets/Textures/Icons/BagsBagsBags_Icons.DDS",
+    "AtlasGuid": "b6a8b5a0-537a-49f6-8f9d-66d7fa2341bd",
+    "IconSize": 64,
+    "ImageKeys":
+    [
+        "Item_CONT_GEN_LIA_ScrollCase",
+        "Item_CONT_GEN_LIA_PotionPouch",
+        "Item_CONT_GEN_LIA_JewelleryCase",
+        "Item_CONT_GEN_LIA_ArmorBag",
+        "Item_CONT_GEN_LIA_BootsBag",
+        "Item_CONT_GEN_LIA_CloakBag",
+        "Item_CONT_GEN_LIA_GlovesBag",
+        "Item_CONT_GEN_LIA_HelmBag",
+        "Item_CONT_GEN_LIA_ShieldBag",
+        "Item_CONT_GEN_LIA_WeaponBag",
+        "Item_CONT_GEN_LIA_Arrows",
+        "Item_CONT_GEN_LIA_Books",
+        "Item_CONT_GEN_LIA_ClothesBundle"
+    ]
+}

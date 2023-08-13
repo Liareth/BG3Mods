@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="331"/>
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_DyesBag" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_DyesBag" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Backpack_C_Posed_A" />
+					<attribute id="MapKey" type="FixedString" value="833d66ad-317d-4274-92d9-c9a7e80f1f00" />
+					<attribute id="ParentTemplateId" type="FixedString" value="74e85216-df90-44fa-9f1f-1bf33b175ef6" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hec4a197ege4bag4335g9ecfg3a2cc10578b3" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h7ad7e853ge123g496eg8342g691d1ce8b9b2" version="1" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="LIA_Treasure_Dyes" /> 
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

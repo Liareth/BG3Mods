@@ -1,0 +1,6 @@
+new entry "OBJ_LIA_DyesBag"
+type "Object"
+using "_Container"
+data "RootTemplate" "833d66ad-317d-4274-92d9-c9a7e80f1f00"
+data "ValueOverride" "1"
+data "Weight" "0.1"

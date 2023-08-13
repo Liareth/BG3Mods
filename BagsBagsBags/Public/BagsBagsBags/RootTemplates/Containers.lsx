@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="331"/>
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_BagsBag" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_BagsBag" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Backpack_C_Posed_A" />
+					<attribute id="MapKey" type="FixedString" value="f25ac393-dbad-4e1a-9e75-522661453347" />
+					<attribute id="ParentTemplateId" type="FixedString" value="74e85216-df90-44fa-9f1f-1bf33b175ef6" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h40f66f76g1741g4117g91efg1bc0db14b770" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h17b21945g3d77g4ebfg86a6ge6022e160741" version="1" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="LIA_Treasure_Bags" /> 
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_ScrollCase" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_ScrollCase" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_ScrollCase" />
+					<attribute id="MapKey" type="FixedString" value="38cc1292-4b83-4288-8db4-98e1d5b82b1c" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="hb9b8050bg60e8g40c1ga82bg495e4de59926" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hf4514a05gfe28g4133gb0c5g8a865a84517c" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hcb64fcb0gf000g48a5gacdbg872b8242611b" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('SCROLL')" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_PotionPouch" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_PotionPouch" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_PotionPouch" />
+					<attribute id="MapKey" type="FixedString" value="1cd6e5ba-a27c-4b1e-91de-724105946f5f" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="h82ee392eg67ebg4644g99aeg3f37d959d7a0" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd41e8a6fg7e0bg4aa1g823egb23d35506781" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hea37df6cgae55g466dgba0dg6a2b83eeeb6a" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('POTION')" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_JewelleryCase" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_JewelleryCase" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_JewelleryCase" />
+					<attribute id="MapKey" type="FixedString" value="828acd0e-1f88-4f7d-97c3-b346237bc7c1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="h97d455bbgaaf9g43b5g8ef6g2afed7a581b4" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd31f5737gdabeg4c63ga029gf574f3f3216e" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h95c3bb89gf409g4101g8dedg7ef0e6d0c1e1" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_ArmorBag" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_ArmorBag" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_ArmorBag" />
+					<attribute id="MapKey" type="FixedString" value="dcb6918a-91ee-4209-aae9-10c893930cb5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
+					<attribute id="DisplayName" type="TranslatedString" handle="h87c63661g1538g42e0gb311geec259ebe771" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hee839060g5b04g465fg8288gb518fa7ca47c" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h8a901a6bg20a4g4489g9ef9g28204fabf086" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_BootsBag" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_BootsBag" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_BootsBag" />
+					<attribute id="MapKey" type="FixedString" value="c8657380-dadc-4dac-a69d-2de656e01156" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
+					<attribute id="DisplayName" type="TranslatedString" handle="h8d83e9a3g6d15g431agaf29g23af9ef75cf3" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h9fb34840g61edg4fbbg8bedga4255689abbc" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h958480cag5d3fg4ce4gb532geb7b74a055c3" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_CloakBag" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_CloakBag" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_CloakBag" />
+					<attribute id="MapKey" type="FixedString" value="a2fd9570-cef9-49d6-8c11-6087d839b59b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
+					<attribute id="DisplayName" type="TranslatedString" handle="h9a74df1cgd906g4db9g8827ga517f4ed31f6" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h06dfe9e1g143cg4229g9182g4fc496bf27d6" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h1700010dg93d8g4b58gbe94ga6ac08ec5879" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_GlovesBag" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_GlovesBag" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_GlovesBag" />
+					<attribute id="MapKey" type="FixedString" value="14124102-9c50-4b9e-af1d-a3abd0e19879" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
+					<attribute id="DisplayName" type="TranslatedString" handle="h91b36446g0e28g471fga746g191cb8d66e8e" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h5cf5838dg0245g4128ga951g6fffbb3a6f11" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h722ccd28g0db9g4874g985ag52f128d6a061" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_HelmBag" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_HelmBag" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_HelmBag" />
+					<attribute id="MapKey" type="FixedString" value="3b58ce2b-0603-4127-8c24-48eb5318a185" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
+					<attribute id="DisplayName" type="TranslatedString" handle="h46f4c250g700fg4c0aga562g66018302c174" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h224d0dc5g715ag417dg99ccg05e3f28a3c26" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="ha1c8738dgc543g411dg87e4g0f651af5a80e" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_ShieldBag" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_ShieldBag" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_ShieldBag" />
+					<attribute id="MapKey" type="FixedString" value="f0f6066d-1435-4adf-bfc9-c09dcd03756d" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
+					<attribute id="DisplayName" type="TranslatedString" handle="hef87ba8fgba42g4c17gbbecg28278c4035eb" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hdbafa2c7g0227g4837ga623g73eff4c59075" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h53f6be08g1b46g4f23g923cgc6c0975d98bc" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_WeaponBag" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_WeaponBag" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_WeaponBag" />
+					<attribute id="MapKey" type="FixedString" value="9674157a-e9b9-4979-ad0f-ed3408e99207" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" /> Backpack
+					<attribute id="DisplayName" type="TranslatedString" handle="hb1214ceag0970g4920ga162gbe1ef4453e12" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hff9de0deg0ff1g4caag8a4fg62333378b0b8" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hecffbe26g0a4fg431dga21eg378287fb32f6" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_Arrows" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_Arrows" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_Arrows" />
+					<attribute id="MapKey" type="FixedString" value="c8b08a44-7385-4c8b-b11a-c28adaf8ca10" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="h540780c5gd94eg4829g87ecg92b84abc630c" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h51c490dagc437g4c42g9c31g8e6684256b1d" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="he74c7bbfg93b2g4bd2g9f0bg4d34381a1694" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ARROW')" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_Books" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_Books" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_Books" />
+					<attribute id="MapKey" type="FixedString" value="174020dd-4f32-4701-937e-32a1889d6f32" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="h26cfcf3dgbe9eg42dag865dg434d35ec4f03" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hb281277cgef46g4b3cgbcd0gb7c600d771a6" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hf1b216b0g4a9ag4295g866fg849bcd141402" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('BOOK') and not Tagged('SCROLL')" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_ClothesBundle" />
+					<attribute id="Stats" type="FixedString" value="CONT_GEN_LIA_ClothesBundle" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_ClothesBundle" />
+					<attribute id="MapKey" type="FixedString" value="9631162b-5121-4b83-bd68-3983474cc09a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> Bag
+					<attribute id="DisplayName" type="TranslatedString" handle="h288cdcd4gcf53g403cgb5d4gd8b3a46da91d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h68081bf9gc661g4581g8d54g0ab6f850d463" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h76e7a7d4g51e4g49e7g97acg2ab5a1be1e36" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

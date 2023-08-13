@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="331"/>
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="b6a8b5a0-537a-49f6-8f9d-66d7fa2341bd" />
+					<attribute id="Name" type="LSString" value="BagsBagsBags_Icons" />
+					<attribute id="SourceFile" type="LSString" value="Public/BagsBagsBags/Assets/Textures/Icons/BagsBagsBags_Icons.DDS" />
+					<attribute id="Template" type="FixedString" value="BagsBagsBags_Icons" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="Width" type="int32" value="512" />
+					<attribute id="Height" type="int32" value="512" />
+					<attribute id="Depth" type="int32" value="1" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
