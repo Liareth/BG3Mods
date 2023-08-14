@@ -290,6 +290,21 @@
 						<node id="InventoryList" />
 					</children>
 				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_DyeSack" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_DyeSack" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_DyeSack" />
+					<attribute id="MapKey" type="FixedString" value="24c0a31f-9eef-4dd6-ab36-4748719e29d8" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> <!-- Bag -->
+					<attribute id="DisplayName" type="TranslatedString" handle="hf91826b9g6c56g5212ga79dg05b6c9d75a42" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hf61e9b3ag4b98g5124gbc85g3a4b5c98d527" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="hc4058c57g7d64g5b36g98f6g0e9f7b9c6e7b" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>

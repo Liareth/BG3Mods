@@ -33,6 +33,8 @@ new subtable "1,1"
 object category "I_OBJ_LIA_Keepsakes",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_LIA_Poisons",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_DyeSack",1,0,0,0,0,0,0,0
 
 // Nautiloid chest
 new treasuretable "TUT_Chest_Potions"

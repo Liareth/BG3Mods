@@ -23,6 +23,7 @@
         "Item_CONT_GEN_LIA_BitsAndBobs",
         "Item_CONT_GEN_LIA_GrenadeSatchel",
         "Item_CONT_GEN_LIA_Keepsakes",
-        "Item_CONT_GEN_LIA_Poisons"
+        "Item_CONT_GEN_LIA_Poisons",
+        "Item_CONT_GEN_LIA_DyeSack"
     ]
 }
