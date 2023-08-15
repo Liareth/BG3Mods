@@ -1,0 +1,12 @@
+{
+    "Type": 0,
+    "AtlasBasePath": "Public/ThematicPhalarAluve",
+    "AtlasLsfPath": "GUI",
+    "AtlasDdsPath": "Assets/Textures/Icons/ThematicPhalarAluveAtlas.DDS",
+    "AtlasGuid": "fb8624e9-1ba4-4cd4-9546-70a17fef896d",
+    "IconSize": 64,
+    "ImageKeys":
+    [
+        "LIA_EilistraeesMoonlight"
+    ]
+}

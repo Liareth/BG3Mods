@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="331"/>
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="fb8624e9-1ba4-4cd4-9546-70a17fef896d" />
+					<attribute id="Name" type="LSString" value="ThematicPhalarAluveAtlas" />
+					<attribute id="SourceFile" type="LSString" value="Public/ThematicPhalarAluve/Assets/Textures/Icons/ThematicPhalarAluveAtlas.DDS" />
+					<attribute id="Template" type="FixedString" value="ThematicPhalarAluveAtlas" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="SRGB" type="bool" value="False" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

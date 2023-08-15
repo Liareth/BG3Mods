@@ -1,0 +1,43 @@
+{
+    "Type": 1,
+    "Entries":
+    [
+        { },
+        {
+            "Name": "PlusTwo",
+            "Operations":
+            [
+                {
+                    "Type": 0,
+                    "Path": "Public/ThematicPhalarAluve/Stats/Generated/Data/PhalarAluve.txt",
+                    "Find": "WeaponEnchantment(3)",
+                    "Replace": "WeaponEnchantment(2)"
+                }
+            ]
+        },
+        {
+            "Name": "PlusOne",
+            "Operations":
+            [
+                {
+                    "Type": 0,
+                    "Path": "Public/ThematicPhalarAluve/Stats/Generated/Data/PhalarAluve.txt",
+                    "Find": "WeaponEnchantment(3)",
+                    "Replace": "WeaponEnchantment(1)"
+                }
+            ]
+        },
+        {
+            "Name": "MundaneIsh",
+            "Operations":
+            [
+                {
+                    "Type": 0,
+                    "Path": "Public/ThematicPhalarAluve/Stats/Generated/Data/PhalarAluve.txt",
+                    "Find": "WeaponEnchantment(3);",
+                    "Replace": ""
+                }
+            ]
+        }
+    ]
+}
