@@ -253,7 +253,7 @@
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="h40f1c123g94d1g57a3ga62bg4f2f3916d7c5" version="1" />
 					<attribute id="StoryItem" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ALCH_SOLUTION_GRENADE') or Tagged('EXPLOSIVES')" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('GRENADE') or Tagged('ALCH_SOLUTION_GRENADE') or Tagged('EXPLOSIVES')" />
 					<children>
 						<node id="InventoryList" />
 					</children>
