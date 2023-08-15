@@ -1,0 +1,9 @@
+new entry "ARM_Golden_Necklace_A"
+using "_Head"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "RootTemplate" "c4f0c10a-475d-49b2-96b2-3ee2a59442c8"
+// headband of intellect (ogre) stats
+data "Boosts" "AbilityOverrideMinimum(Intelligence,17)"
+data "Rarity" "Uncommon"
+data "Unique" "1"

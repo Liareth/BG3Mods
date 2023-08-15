@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="h70fc5aebg8d97g44bcga454g1a5ae47d5fc9">Eilistraee's Moonlight</content>
+    <content contentuid="h7aa3ab36gd692g4eddg9f90gd58643a7ab1e">Shines Eilistraee's moonlight in a [1] radius. In combat, fiends and undead standing in the light are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, unless they succeed a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+</contentList>
