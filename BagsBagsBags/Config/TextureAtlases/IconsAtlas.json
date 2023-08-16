@@ -24,6 +24,9 @@
         "Item_CONT_GEN_LIA_GrenadeSatchel",
         "Item_CONT_GEN_LIA_Keepsakes",
         "Item_CONT_GEN_LIA_Poisons",
-        "Item_CONT_GEN_LIA_DyeSack"
+        "Item_CONT_GEN_LIA_DyeSack",
+        "Item_CONT_GEN_LIA_Gear",
+        "Item_CONT_GEN_LIA_QuestItems",
+        "Item_CONT_GEN_LIA_Valuables"
     ]
 }

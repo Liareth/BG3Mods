@@ -305,6 +305,51 @@
 						<node id="InventoryList" />
 					</children>
 				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_Gear" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_Gear" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_Gear" />
+					<attribute id="MapKey" type="FixedString" value="00fe5be6-8071-4633-bb17-aaef5a0d570d" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> <!-- Bag -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h8e1d5a2bg3286g5c34g85d7g2de4f6e51a20" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h92a7e45fg6b27g5e31gb45dg23c5f8d492b0" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h319de2c8gc654g5b40g8b46gdf3f5b8724e3" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_QuestItems" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_QuestItems" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_QuestItems" />
+					<attribute id="MapKey" type="FixedString" value="07382994-148e-494f-9bd8-d184d0bce0bd" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> <!-- Bag -->
+					<attribute id="DisplayName" type="TranslatedString" handle="hb2c0f4b5gf425g5829gad03g1a6c7f8e6357" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h67d1c83eg3145g5c21gb32dg72a5f8e511e2" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h43e6dab6g9147g5f26g85a5g27c7b8e179d4" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="CONT_GEN_LIA_Valuables" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_Valuables" /> 
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_LIA_Valuables" />
+					<attribute id="MapKey" type="FixedString" value="3eda1282-acbb-45cf-87b8-10ea339f60fe" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e6aac21-333b-4812-a554-376c2d157ba9" /> <!-- Bag -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h45a7fc20g8b43g6d21g9e5dg87c7b5e178a9" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h74c1d03fgf127g5d12g9e45gbc2f7e9413e0" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="he6b8f153gd204g5326gbe96g129a3c5101d2" version="1" />
+					<attribute id="StoryItem" type="bool" value="True" />
+					<children>
+						<node id="InventoryList" />
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>
