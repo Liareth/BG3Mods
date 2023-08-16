@@ -10,13 +10,13 @@
   <content contentuid="h95c3bb89gf409g4101g8dedg7ef0e6d0c1e1">Accumule vos richesses. </content>
   <content contentuid="hd31f5737gdabeg4c63ga029gf574f3f3216e">Un écrin doré avec des compartiments en tissu pour chaque objet de valeur, pour que vos bijoux ne claquent pas aux moments inopportuns. </content>
   <content contentuid="h87c63661g1538g42e0gb311geec259ebe771">Sac d'Armures</content>
-  <content contentuid="h8a901a6bg20a4g4489g9ef9g28204fabf086">Répertorie vos équipement de tissu, de cuir, de maille et de plaque. </content>
-  <content contentuid="hee839060g5b04g465fg8288gb518fa7ca47c">Fabriqué à partir du cuir le plus fin, ce sac garantit que votre armure ne s’imprègne d'aucune odeur indésirable pendant les longs trajets. Les orcs n'ont pas de nez, contrairement à Shadowheart !</content>
+  <content contentuid="h8a901a6bg20a4g4489g9ef9g28204fabf086">Empile vos équipement de tissu, de cuir, de maille et de plaque. </content>
+  <content contentuid="hee839060g5b04g465fg8288gb518fa7ca47c">Fabriqué à partir du cuir le plus fin, ce sac garantit que votre armure ne s'imprègne d'aucune odeur indésirable pendant les longs trajets. Les orcs n'ont pas de nez, contrairement à Shadowheart !</content>
   <content contentuid="h8d83e9a3g6d15g431agaf29g23af9ef75cf3">Sac de Bottes</content>
   <content contentuid="h958480cag5d3fg4ce4gb532geb7b74a055c3">Rassemble vos guêtres. </content>
   <content contentuid="h9fb34840g61edg4fbbg8bedga4255689abbc">Un sac robuste en tissu fabriqué par les gnomes. Gardez vos bottes par paire, car tout le monde sait qu'une botte seule est une botte triste. </content>
   <content contentuid="h9a74df1cgd906g4db9g8827ga517f4ed31f6">Sac de Capes</content>
-  <content contentuid="h1700010dg93d8g4b58gbe94ga6ac08ec5879">Empile vos capes. </content>
+  <content contentuid="h1700010dg93d8g4b58gbe94ga6ac08ec5879">Protège vos pèlerines et manteaux. </content>
   <content contentuid="h06dfe9e1g143cg4229g9182g4fc496bf27d6">Confectionné en soie ténébreuse, ce sac cachera vos capes de tous les regards indiscrets, en particulier de votre curieux voisin halfelin. </content>
   <content contentuid="h91b36446g0e28g471fga746g191cb8d66e8e">Sac de Gants</content>
   <content contentuid="h722ccd28g0db9g4874g985ag52f128d6a061">Amoncèle vos mitaines. </content>
@@ -39,10 +39,10 @@
   <content contentuid="hf1b216b0g4a9ag4295g866fg849bcd141402">Archive vos livres et manuscrits. </content>
   <content contentuid="hb281277cgef46g4b3cgbcd0gb7c600d771a6">Une bibliothèque enchantée sous forme compacte. Chaque tome a un endroit désigné, et il y a un compartiment caché pour votre journal intime. </content>
   <content contentuid="h288cdcd4gcf53g403cgb5d4gd8b3a46da91d">Garde-robe de poche</content>
-  <content contentuid="h76e7a7d4g51e4g49e7g97acg2ab5a1be1e36">Collectionne vos accoutrements. </content>
+  <content contentuid="h76e7a7d4g51e4g49e7g97acg2ab5a1be1e36">Range vos accoutrements. </content>
   <content contentuid="h68081bf9gc661g4581g8d54g0ab6f850d463">Une penderie enchanté par des tailleurs faes. Les vêtements restent sans plis et laissent une légère odeur de lilas et de groseilles. </content>
   <content contentuid="h4019c4a4gc313g5425ga81ag028e4c85b7e2">Bric-à-Brac</content>
-  <content contentuid="h537d7df1g7289g5d46g9141gfa5c7260e108">Entasse votre bazar.</content>
+  <content contentuid="h537d7df1g7289g5d46g9141gfa5c7260e108">Bibelote votre bazar.</content>
   <content contentuid="h8e6d9a68g7b84g5734g80d5gb5b6e2561f48">Un sac polyvalent pour tous les petites choses dont vous ne pouvez vous séparer mais qui ne trouvent leur place nul part ailleurs. Vous vous êtes déjà demandé où était passée cette boucle d'oreille ou ce caillou brillant ? Vérifiez ici.</content>
   <content contentuid="hb7e0db4dg8f91g5c2fg8509g4e6a6aeb2193">Sacoche à Grenades</content>
   <content contentuid="h40f1c123g94d1g57a3ga62bg4f2f3916d7c5">Stocke vos engins explosifs.</content>
@@ -53,4 +53,16 @@
   <content contentuid="h13f3de0bg14f6g5a3ag95f3ga8f9b8db9e79">Trousse à Poisons</content>
   <content contentuid="hfe6b5a3ag8b12g5631gb3a3g2a0a90bf3726">Maintien en place vos décoctions toxiques.</content>
   <content contentuid="hc7a6d4f7g3d48g5e74g812dg35d76be92a15">Un porte-flacon conçu de manière complexe avec un mécanisme anti-reflux. Chaque flasque est maintenu en toute sécurité, ce qui garantit que c'est vous qui empoisonnez, et non pas l'inverse !</content>
+  <content contentuid="hf91826b9g6c56g5212ga79dg05b6c9d75a42">Sacoche à Pigments</content>
+  <content contentuid="hc4058c57g7d64g5b36g98f6g0e9f7b9c6e7b">Répertorie votre collection de teintures vibrantes.</content>
+  <content contentuid="hf61e9b3ag4b98g5124gbc85g3a4b5c98d527">Un sac en toile de jute durable conçu pour les aventuriers autant soucieux de leur esthétique que d'éviter de faire des taches malencontreuses sur leur pantalon. Parce qu'un héros ne se définit pas seulement par ses actions, mais aussi par son style !</content>
+  <content contentuid="h8e1d5a2bg3286g5c34g85d7g2de4f6e51a20">Sac d'équipements divers</content>
+  <content contentuid="h319de2c8gc654g5b40g8b46gdf3f5b8724e3">Entasse temporairement divers équipements et objets.</content>
+  <content contentuid="h92a7e45fg6b27g5e31gb45dg23c5f8d492b0">Ce sac a des poches dont vous ne saviez même pas que vous en aviez besoin. Dagues, boucliers, mystérieuse orbe lumineuse ? Il y a une place pour chacun d'entre eux et même pour ce truc qui semble ne servir à rien pas mais qui a l'air cool.</content>
+  <content contentuid="hb2c0f4b5gf425g5829gad03g1a6c7f8e6357">Objets de quête</content>
+  <content contentuid="h43e6dab6g9147g5f26g85a5g27c7b8e179d4">Recueille vos objets de quête essentiels.</content>
+  <content contentuid="h67d1c83eg3145g5c21gb32dg72a5f8e511e2">Le secret de tous les aventuriers ! Cette poche contient tous les objets de quête que vous ramassez en pensant qu'ils seront importants plus tard. En vrai ? Ils le sont rarement, mais au cas où ... non ?</content>
+  <content contentuid="h45a7fc20g8b43g6d21g9e5dg87c7b5e178a9">Objets de valeur</content>
+  <content contentuid="he6b8f153gd204g5326gbe96g129a3c5101d2">Epargne vos richesses et vos objets précieux. </content>
+  <content contentuid="h74c1d03fgf127g5d12g9e45gbc2f7e9413e0">Ce qui compte, ce n'est pas la taille de la poche, mais ce qu'elle contient, n'est-ce pas ? Cette pochette n'est pas de cet avis. Elle est parfaite pour contenir des pièces d'or, des pierres précieuses et cette chose brillante dont vous êtes convaincu qu'elle a de la valeur.</content>
 </contentList>
