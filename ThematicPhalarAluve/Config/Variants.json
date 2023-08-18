@@ -26,18 +26,6 @@
                     "Replace": "WeaponEnchantment(1)"
                 }
             ]
-        },
-        {
-            "Name": "MundaneIsh",
-            "Operations":
-            [
-                {
-                    "Type": 0,
-                    "Path": "Public/ThematicPhalarAluve/Stats/Generated/Data/PhalarAluve.txt",
-                    "Find": "WeaponEnchantment(3);",
-                    "Replace": ""
-                }
-            ]
         }
     ]
 }
