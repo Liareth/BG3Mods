@@ -7,12 +7,13 @@
 				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString" handle="h7bb83d8eg7704g4c2fga1e4gd29e17cfa051" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="hd2ade267g4050g4cb7g9d08gd5980a3f81c2" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greatsword_B_1" />
 					<attribute id="MapKey" type="FixedString" value="2ddf125b-fa51-4336-97b5-8c13fe358bfb" />
 					<attribute id="Name" type="LSString" value="LIA_TyrsJustice" />
 					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
 					<attribute id="Stats" type="FixedString" value="OBJ_LIA_TyrsJustice" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="571ec8f3-ea25-56f9-bee7-492ae2483478" />
+					<attribute id="VisualTemplate" type="FixedString" value="421b7547-1981-8a88-e706-8bb4e956c568" />
 					<children>
 						<node id="StatusList">
 							<children>
