@@ -24,10 +24,10 @@
   <content contentuid="h46f4c250g700fg4c0aga562g66018302c174">Bolsa para Yelmos</content>
   <content contentuid="ha1c8738dgc543g411dg87e4g0f651af5a80e">Guarda tus yelmos.</content>
   <content contentuid="h224d0dc5g715ag417dg99ccg05e3f28a3c26">Una bolsa apta para yelmos de todos los tamaños, excepto quizá ese gigantesco que te dio el ogro gigante. Buena suerte con eso.</content>
-  <content contentuid="hef87ba8fgba42g4c17gbbecg28278c4035eb">Bolsa para escudos</content>
+  <content contentuid="hef87ba8fgba42g4c17gbbecg28278c4035eb">Bolsa para Escudos</content>
   <content contentuid="h53f6be08g1b46g4f23g923cgc6c0975d98bc">Guarda tus escudos.</content>
   <content contentuid="hdbafa2c7g0227g4837ga623g73eff4c59075">Reforzada con acero enano, esta bolsa garantiza que tus escudos se mantengan impecables. Las abolladuras de mordeduras de dragón no están cubiertas.</content>
-  <content contentuid="hb1214ceag0970g4920ga162gbe1ef4453e12">Bolsa para armas</content>
+  <content contentuid="hb1214ceag0970g4920ga162gbe1ef4453e12">Bolsa para Armas</content>
   <content contentuid="hecffbe26g0a4fg431dga21eg378287fb32f6">Guarda tus armas.</content>
   <content contentuid="hff9de0deg0ff1g4caag8a4fg62333378b0b8">Fabricada pensando en la batalla, esta bolsa tiene compartimentos para espadas, dagas e incluso ese incómodo tridente del que no te gusta hablar.</content>
   <content contentuid="h40f66f76g1741g4117g91efg1bc0db14b770">Bolsa llena de Bolsas</content>
@@ -41,13 +41,13 @@
   <content contentuid="h288cdcd4gcf53g403cgb5d4gd8b3a46da91d">Paquete para Ropa</content>
   <content contentuid="h76e7a7d4g51e4g49e7g97acg2ab5a1be1e36">Guarda tu ropa.</content>
   <content contentuid="h68081bf9gc661g4581g8d54g0ab6f850d463">Un fardo encantado por sastres feéricos. La ropa no se arruga y huele a lilas y grosellas.</content>
-  <content contentuid="h4019c4a4gc313g5425ga81ag028e4c85b7e2">Cajón de sastre</content>
+  <content contentuid="h4019c4a4gc313g5425ga81ag028e4c85b7e2">Cajón de Sastre</content>
   <content contentuid="h537d7df1g7289g5d46g9141gfa5c7260e108">Guarda tus cachivaches.</content>
   <content contentuid="h8e6d9a68g7b84g5734g80d5gb5b6e2561f48">Un saco versátil para todos esos pequeños objetos de los que no puedes desprenderte. ¿Alguna vez te has preguntado dónde ha ido a parar ese pendiente o esa piedrecita brillante? Compruébalo aquí.</content>
-  <content contentuid="hb7e0db4dg8f91g5c2fg8509g4e6a6aeb2193">Bolsa para granadas</content>
+  <content contentuid="hb7e0db4dg8f91g5c2fg8509g4e6a6aeb2193">Bolsa para Granadas</content>
   <content contentuid="h40f1c123g94d1g57a3ga62bg4f2f3916d7c5">Almacena tus artefactos explosivos.</content>
   <content contentuid="ha80b4c4eg65d3g53f2gbe39gac8d76f54007">Una bolsa forrada con material amortiguador que garantiza que tus granadas permanezcan intactas hasta que estés listo para hacer ¡boom! Perfecta para los alquimistas más exigentes.</content>
-  <content contentuid="h27c8de2bg0f38g5f0cg853cg71ee29c490ab">Caja de recuerdos</content>
+  <content contentuid="h27c8de2bg0f38g5f0cg853cg71ee29c490ab">Caja de Recuerdos</content>
   <content contentuid="h752d7900g09e6g59b6ga57fg8e3f2c3501fd">Guarda tus recuerdos más preciados.</content>
   <content contentuid="h95ebbf00gbc92g5139g8d25gab6f69e431f6">Una caja mística con cerradura. En su interior, tus recuerdos más preciados están protegidos del paso del tiempo.</content>
   <content contentuid="h13f3de0bg14f6g5a3ag95f3ga8f9b8db9e79">Venenos</content>
@@ -56,4 +56,13 @@
   <content contentuid="hf91826b9g6c56g5212ga79dg05b6c9d75a42">Saco de tintes</content>
   <content contentuid="hc4058c57g7d64g5b36g98f6g0e9f7b9c6e7b">Almacena tu colección de tintes vibrantes.</content>
   <content contentuid="hf61e9b3ag4b98g5124gbc85g3a4b5c98d527">Un duradero saco de arpillera hecho a medida para el aventurero con conciencia estética, diseñado para absorber cualquier desafortunado derrame antes de que lo haga tu regazo. Porque un héroe no sólo se define por sus acciones, ¡sino también por su estilo!</content>
+  <content contentuid="h8e1d5a2bg3286g5c34g85d7g2de4f6e51a20">Equipo</content>
+  <content contentuid="h319de2c8gc654g5b40g8b46gdf3f5b8724e3">Almacena tu equpipamiento sin clasificar.</content>
+  <content contentuid="h92a7e45fg6b27g5e31gb45dg23c5f8d492b0">Esta bolsa tiene bolsillos que ni siquiera sabías que necesitabas. ¿Dagas, escudos, misteriosos orbes brillantes? Hay un lugar para todos ellos, incluso para esa cosa en la que no tienes competencia pero que parecía guay.</content>
+  <content contentuid="hb2c0f4b5gf425g5829gad03g1a6c7f8e6357">Objetos de Misión</content>
+  <content contentuid="h43e6dab6g9147g5f26g85a5g27c7b8e179d4">Almacena tus objetos de misión.</content>
+  <content contentuid="h67d1c83eg3145g5c21gb32dg72a5f8e511e2">El secreto culpable de todo aventurero. Este bolsillo almacena todos esos objetos de misión que recoges pensando que serán importantes más adelante. Spoiler: Rara vez lo son, pero por si acaso... ¿no?</content>
+  <content contentuid="h45a7fc20g8b43g6d21g9e5dg87c7b5e178a9">Objetos Valiosos</content>
+  <content contentuid="he6b8f153gd204g5326gbe96g129a3c5101d2">Guarda tus preciados objetos de valor.</content>
+  <content contentuid="h74c1d03fgf127g5d12g9e45gbc2f7e9413e0">No se trata del tamaño de la bolsa, sino de lo que contiene, ¿verdad? Esta bolsa no está de acuerdo. Perfecta para guardar monedas de oro, Monedas del Alma y esa piedra brillante de la que estás convencido de que es valiosa.</content>
 </contentList>
