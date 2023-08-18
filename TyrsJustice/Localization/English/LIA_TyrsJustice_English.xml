@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+  <content contentuid="hd2ade267g4050g4cb7g9d08gd5980a3f81c2">Tyr's Justice</content>
+  <content contentuid="h7bb83d8eg7704g4c2fga1e4gd29e17cfa051">Emanating a warm, golden glow, the blade seems to hold the very light of the heavens. The leather-bound hilt feels as steadfast and reassuring as the god of law's embrace. Its surface is marked with radiant runes and the inscription, &lt;i&gt;"By Tyr's Will, Justice Prevails."&lt;/i&gt;</content>
+  <content contentuid="h1a2cc329g9d6fg4fb2g8aa5g5a5809654f59">Eye of the Just</content>
+  <content contentuid="h5ee664cbg893fg48c2gb619gbc48e1c3e071">The wielder's senses are sharpened by the divine wisdom of Tyr, enabling them to discern deceit and judge intentions with unparalleled clarity. They gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt; checks.</content>
+  <content contentuid="hf1be490fga7e8g41a9gac13g2a3961d87274">Scales of Justice</content>
+  <content contentuid="hd2795fbeg4fa6g4d88g8f48g090be8f06c88">When hit by an attack, the wielder can use their &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to compel the attacker to make a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; (DC 16). On a failed save, the attacker takes [1] as divine justice exacts its toll.</content>
+  <content contentuid="h41ae887fgcf00g49e3gb55dg319fe04e13ce">Compel your attacker to make a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; (DC 16). On a failed save, your attacker takes [1] as divine justice exacts its toll.</content>
+  <content contentuid="h2b449e0dg937fg4b10g8528g027748b1b689">Guardian's Ward</content>
+  <content contentuid="h35b874a2g3a53g4dfbga221ga06de12c5d4c">Once per long rest the wielder can call upon the protective power of Tyr to cast &lt;LSTag Type="Spell" Tooltip="Target_WardingBond"&gt;Warding Bond&lt;/LSTag&gt;.</content>
+</contentList>

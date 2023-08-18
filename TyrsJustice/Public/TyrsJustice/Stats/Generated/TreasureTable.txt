@@ -1,0 +1,4 @@
+new treasuretable "UND_KC_AdamantineGolem"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_LIA_TyrsJustice",1,0,0,0,0,0,0,0
