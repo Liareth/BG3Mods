@@ -26,6 +26,24 @@
                     "Replace": "WeaponEnchantment(1)"
                 }
             ]
+        },
+        {
+            "Name": "PlusOne_TutorialChest",
+            "Operations":
+            [
+                {
+                    "Type": 0,
+                    "Path": "Public/TyrsJustice/Stats/Generated/Data/TyrsJustice.txt",
+                    "Find": "WeaponEnchantment(3)",
+                    "Replace": "WeaponEnchantment(1)"
+                },
+                {
+                    "Type": 0,
+                    "Path": "Public/TyrsJustice/Stats/Generated/TreasureTable.txt",
+                    "Find": "new treasuretable \"UND_KC_AdamantineGolem\"",
+                    "Replace": "new treasuretable \"TUT_Chest_Potions\"\r\nCanMerge 1\r\nnew subtable \"1,1\"\r\nobject category \"I_OBJ_LIA_TyrsJustice\",1,0,0,0,0,0,0,0\r\n\r\nnew treasuretable \"UND_KC_AdamantineGolem\""
+                }
+            ]
         }
     ]
 }
