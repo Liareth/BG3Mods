@@ -1,0 +1,15 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_LIA_VictoriaArmourA",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_VictoriaArmourB",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_VictoriaGloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_VictoriaBoots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_VictoriaCloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LIA_VictoriaHelm",1,0,0,0,0,0,0,0
+new subtable "1,1"
