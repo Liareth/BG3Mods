@@ -54,6 +54,18 @@ CanMerge 1
 new subtable "4,1"
 object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
 
+// Act 2, Araj Oblodra
+new treasuretable "MOO_InfernalTrader_Trade"
+CanMerge 1
+new subtable "4,1"
+object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
+
+// Act 2, Quartermaster Talli
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "4,1"
+object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
+
 // Act 3, Danthelon
 new treasuretable "WYR_Danthelon_Trader"
 CanMerge 1
