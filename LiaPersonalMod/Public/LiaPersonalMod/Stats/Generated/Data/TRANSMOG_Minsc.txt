@@ -1,0 +1,11 @@
+new entry "OBJ_LIA_MinscArmour"
+using "ARM_Leather_Body_Minsc"
+data "RootTemplate" "7965368b-0160-4554-aed1-420276517fce"
+
+new entry "OBJ_LIA_MinscGloves"
+using "ARM_Gloves_Leather_Minsc"
+data "RootTemplate" "13709409-51d9-438b-a083-8f290e15e695"
+
+new entry "OBJ_LIA_MinscBoots"
+using "ARM_Boots_Leather"
+data "RootTemplate" "8eae4fde-9b7b-45bc-bc48-915bf217ddcc"

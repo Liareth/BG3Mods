@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="331"/>
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_MinscArmour" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_MinscArmour" />
+					<attribute id="MapKey" type="FixedString" value="7965368b-0160-4554-aed1-420276517fce" />
+					<attribute id="ParentTemplateId" type="FixedString" value="be29b42a-e3ab-4a41-b4c2-7443cf65162f" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0a4de0f8g753eg4b66g87f6ge33db5d766b5" version="1" />
+					<children />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_MinscGloves" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_MinscGloves" />
+					<attribute id="MapKey" type="FixedString" value="13709409-51d9-438b-a083-8f290e15e695" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ca7faba9-aafb-4a04-b838-17b5d4eadee6" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9e58f54fg6170g4cdeg8513g25fadfe384ed" version="1" />
+					<children />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_MinscBoots" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_MinscBoots" />
+					<attribute id="MapKey" type="FixedString" value="8eae4fde-9b7b-45bc-bc48-915bf217ddcc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="969bab00-b269-46a5-a7e9-dd4887814719" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9169ecd9ga0f5g448bg97f3g261c2188fb3b" version="1" />
+					<children />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

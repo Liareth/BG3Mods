@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="331"/>
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_WyllArmour" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_WyllArmour" />
+					<attribute id="MapKey" type="FixedString" value="cd2ce8ec-6ce3-483d-a5d5-73dd3e9284f3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="63cc7723-245d-4b62-b9e6-5a47283cf777" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h87e1d803g4d72g4418g87b0g4de11d22e41e" version="1" />
+					<children />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_WyllGloves" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_WyllGloves" />
+					<attribute id="MapKey" type="FixedString" value="96e7c3d0-507e-45ca-8492-1657f7b542b8" />
+					<attribute id="ParentTemplateId" type="FixedString" value="abdcc7a4-db92-4eca-8afc-6b180ce861aa" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf3667a15g76eeg4c79g98d2g306e96197be9" version="1" />
+					<children />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_WyllBoots" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_WyllBoots" />
+					<attribute id="MapKey" type="FixedString" value="d0167a1b-2de7-4cc0-9866-3a001e24724f" />
+					<attribute id="ParentTemplateId" type="FixedString" value="969bab00-b269-46a5-a7e9-dd4887814719" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf9420a85gf1b0g4f24gaa14g58b885b7dcdd" version="1" />
+					<children />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-  <content contentuid="he44b1bbcgff70g45b3g96ccga02eeff47932">Nyxite Plate</content>
+  <content contentuid="h32147208g0c83g4c52gb8dbg71e3e84fcc8e">Gale's Armour</content>
+  <content contentuid="hef8d8a25g044fg4eccg81a6g01689f9b8f95">Gale's Gloves</content>
+  <content contentuid="he71e83b8ge7b4g4091g87cbg27762c6522f7">Gale's Boots</content>
+  <content contentuid="hd5055dc3geee6g4a8aga35dg2f211e33b862">Jaheira's Armour</content>
+  <content contentuid="hc3566299g7dd5g4756g92bcgd2322e8493b2">Jaheira's Gloves</content>
+  <content contentuid="h65620116g6713g4e73g86dcg2b5161985ccc">Jaheira's Boots</content>
+  <content contentuid="ha43ba1e5g2030g4d60gb3e6g10b25d8b221f">Lae'zel's Armour</content>
+  <content contentuid="h82607901gce05g4cc1ga06fg0f33360ff406">Lae'zel's Gloves</content>
+  <content contentuid="hcdcfb469g40a8g40b1g9e61g36c39590d4ff">Lae'zel's Boots</content>
+  <content contentuid="h0a4de0f8g753eg4b66g87f6ge33db5d766b5">Minsc's Armour</content>
+  <content contentuid="h9e58f54fg6170g4cdeg8513g25fadfe384ed">Minsc's Gloves</content>
+  <content contentuid="h9169ecd9ga0f5g448bg97f3g261c2188fb3b">Minsc's Boots</content>
+  <content contentuid="he44b1bbcgff70g45b3g96ccga02eeff47932">Victoria's Armour</content>
+  <content contentuid="h6a18138bg77acg4d65gb6f7ge188980c7287">Victoria's Gloves</content>
+  <content contentuid="hbf68328cg2c28g47ffgb127ga142fd5e43e7">Victoria's Boots</content>
+  <content contentuid="haff4056bgc64fg46b8gba0bgca85a8830ad8">Victoria's Cloak</content>
+  <content contentuid="h29677caag9bd4g47b2g89e9g70935b085e02">Victoria's Cowl</content>
+  <content contentuid="h87e1d803g4d72g4418g87b0g4de11d22e41e">Wyll's Armour</content>
+  <content contentuid="hf3667a15g76eeg4c79g98d2g306e96197be9">Wyll's Gloves</content>
+  <content contentuid="hf9420a85gf1b0g4f24gaa14g58b885b7dcdd">Wyll's Boots</content>
   <content contentuid="h6f3236e7g1fe2g41f4g9c54g455f2349e3ee">Crafted from the darkest abyssal ores found deep within the Underdark, this armor emanates a dim, silvery light from moon-shaped patterns intricately etched onto its surface.</content>
-  <content contentuid="h02bbb5cegbf30g404dgbb17g549ab68039a7">Chain Mail</content>
-  <content contentuid="h6a18138bg77acg4d65gb6f7ge188980c7287">Moonweaver's Grasp</content>
   <content contentuid="h4f1788cdg5d5bg436bgb0f0ga29b24dc11db">The supple leather of these gloves was blessed under the radiance of the full moon. Embroidered with silvery threads depicting the dance of drow priestesses, they offer the wearer heightened tactile sensitivity.</content>
-  <content contentuid="h8bdda299gb9a2g431ag963fg3f799391f3c2">Gloves of Heroism</content>
-  <content contentuid="hbf68328cg2c28g47ffgb127ga142fd5e43e7">Silent Crescendo Greaves</content>
   <content contentuid="h3fa14e98gd72cg437dgb009g644b59008520">Crafted from the hide of a chitinous Underdark beast, these boots are as hard as stone but quiet as a whisper, turning each step taken into a graceful dance move.</content>
-  <content contentuid="hc0f39f66g7fe7g4a3eg96ecg93bec52e315a"></content>
-  <content contentuid="haff4056bgc64fg46b8gba0bgca85a8830ad8">Starshroud Mantle</content>
   <content contentuid="hd44c4ec1gd58ag4471gb24ag59980f71180a">Made from the night-black silk of rare Underdark spiders, this cloak seems to shimmer with a constellation of stars.</content>
-  <content contentuid="h6bdd49d1g9988g4bd4gbc9ag1f375f8e6f94"></content>
-  <content contentuid="h29677caag9bd4g47b2g89e9g70935b085e02">Lunarshadow Cowl</content>
   <content contentuid="h1e18e1e3g7354g4381gbc28g224727efc5f7">This hood, woven from the threads of moonlit nights, offers a unique duality. In darkness, it shimmers with a faint ethereal glow, but in the light, it camouflages its wearer seamlessly.</content>
-  <content contentuid="h65ffb19bg097ag4b25ga6edg0999835cd39e">Headband of Intellect</content>
 </contentList>

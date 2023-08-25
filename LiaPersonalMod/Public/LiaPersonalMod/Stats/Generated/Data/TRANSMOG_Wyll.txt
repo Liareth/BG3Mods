@@ -1,0 +1,11 @@
+new entry "OBJ_LIA_WyllArmour"
+using "ARM_Padded_Body"
+data "RootTemplate" "cd2ce8ec-6ce3-483d-a5d5-73dd3e9284f3"
+
+new entry "OBJ_LIA_WyllGloves"
+using "MAG_CQCaster_CloseRangedSpellMastery_Gloves"
+data "RootTemplate" "96e7c3d0-507e-45ca-8492-1657f7b542b8"
+
+new entry "OBJ_LIA_WyllBoots"
+using "ARM_Boots_Leather"
+data "RootTemplate" "d0167a1b-2de7-4cc0-9866-3a001e24724f"

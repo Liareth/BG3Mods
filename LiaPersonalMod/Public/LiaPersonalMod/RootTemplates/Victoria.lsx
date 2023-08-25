@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="9" build="331"/>
 	<region id="Templates">
@@ -12,9 +12,6 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="f91623dd-7dcd-4d05-b353-6a15f5caa921" />
 					<attribute id="DisplayName" type="TranslatedString" handle="he44b1bbcgff70g45b3g96ccga02eeff47932" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h6f3236e7g1fe2g41f4g9c54g455f2349e3ee" version="1" />
-					<!-- 
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="h02bbb5cegbf30g404dgbb17g549ab68039a7" version="1" />
-					-->
 					<children />
 				</node>
 				<node id="GameObjects">
@@ -25,9 +22,6 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="15338da1-c4f8-4b43-912c-c14e7d9a8579" />
 					<attribute id="DisplayName" type="TranslatedString" handle="he44b1bbcgff70g45b3g96ccga02eeff47932" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h6f3236e7g1fe2g41f4g9c54g455f2349e3ee" version="1" />
-					<!-- 
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="h02bbb5cegbf30g404dgbb17g549ab68039a7" version="1" />
-					-->
 					<children />
 				</node>
 				<node id="GameObjects">
@@ -38,9 +32,6 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="b109178d-5f3f-4aa0-b5b1-ef1bd8d2655b" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h6a18138bg77acg4d65gb6f7ge188980c7287" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h4f1788cdg5d5bg436bgb0f0ga29b24dc11db" version="1" />
-					<!-- 
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="h8bdda299gb9a2g431ag963fg3f799391f3c2" version="1" />
-					-->
 					<children />
 				</node>
 				<node id="GameObjects">
@@ -51,9 +42,6 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="f3d8ff49-eaac-4c10-9421-3fd2180c7b39" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="hbf68328cg2c28g47ffgb127ga142fd5e43e7" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h3fa14e98gd72cg437dgb009g644b59008520" version="1" />
-					<!-- 
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="hc0f39f66g7fe7g4a3eg96ecg93bec52e315a" />
-					-->
 					<children />
 				</node>
 				<node id="GameObjects">
@@ -64,9 +52,6 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="fc49414b-49d6-4f57-ae92-721d9d912d83" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="haff4056bgc64fg46b8gba0bgca85a8830ad8" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hd44c4ec1gd58ag4471gb24ag59980f71180a" version="1" />
-					<!-- 
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="h6bdd49d1g9988g4bd4gbc9ag1f375f8e6f94" />
-					-->
 					<children />
 				</node>
 				<node id="GameObjects">
@@ -77,9 +62,6 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="c4f0c10a-475d-49b2-96b2-3ee2a59442c8" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h29677caag9bd4g47b2g89e9g70935b085e02" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="h1e18e1e3g7354g4381gbc28g224727efc5f7" version="1" />
-					<!-- 
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="h65ffb19bg097ag4b25ga6edg0999835cd39e" version="1" /
-					-->
 					<children />
 				</node>
 			</children>

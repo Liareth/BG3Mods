@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="331"/>
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_JaheiraArmour" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_JaheiraArmour" />
+					<attribute id="MapKey" type="FixedString" value="a745ea81-05bf-4f46-a497-0057ef6193c2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f91623dd-7dcd-4d05-b353-6a15f5caa921" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd5055dc3geee6g4a8aga35dg2f211e33b862" version="1" />
+					<children />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_JaheiraGloves" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_JaheiraGloves" />
+					<attribute id="MapKey" type="FixedString" value="a0915f9d-8444-461d-9543-cf27fa13732c" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5d3b434b-4448-47c3-8dc3-92e1ca946e29" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc3566299g7dd5g4756g92bcgd2322e8493b2" version="1" />
+					<children />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_JaheiraBoots" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_JaheiraBoots" />
+					<attribute id="MapKey" type="FixedString" value="1cbe1cce-ef77-49ad-8350-e2e0f6d26924" />
+					<attribute id="ParentTemplateId" type="FixedString" value="edcc4d57-ba17-4470-ad78-bc2b967b524c" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h65620116g6713g4e73g86dcg2b5161985ccc" version="1" />
+					<children />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

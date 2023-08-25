@@ -1,0 +1,11 @@
+new entry "OBJ_LIA_JaheiraArmour"
+using "UNI_Leather_Jaheira"
+data "RootTemplate" "a745ea81-05bf-4f46-a497-0057ef6193c2"
+
+new entry "OBJ_LIA_JaheiraGloves"
+using "UNI_Jaheira_Gloves"
+data "RootTemplate" "a0915f9d-8444-461d-9543-cf27fa13732c"
+
+new entry "OBJ_LIA_JaheiraBoots"
+using "UNI_Jaheira_Boots"
+data "RootTemplate" "1cbe1cce-ef77-49ad-8350-e2e0f6d26924"

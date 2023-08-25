@@ -1,0 +1,11 @@
+new entry "OBJ_LIA_GaleArmour"
+using "UNI_GaleRobe"
+data "RootTemplate" "70eeb45c-d643-4863-8ffa-d19359291ba3"
+
+new entry "OBJ_LIA_GaleGloves"
+using "UNI_ARM_OfDefense_Gloves"
+data "RootTemplate" "6b2e3099-2320-42c5-9e1c-5ca6b561aef5"
+
+new entry "OBJ_LIA_GaleBoots"
+using "ARM_Shoes"
+data "RootTemplate" "11cfbb93-0e50-47b1-8362-ee901e26b66c"

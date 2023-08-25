@@ -1,0 +1,11 @@
+new entry "OBJ_LIA_LaezelArmour"
+using "ARM_ChainMail_Body"
+data "RootTemplate" "ca012831-cfa6-496c-a0b3-12acdb116a17"
+
+new entry "OBJ_LIA_LaezelGloves"
+using "MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves"
+data "RootTemplate" "3577040d-9652-4900-b5e1-6e9f527a890f"
+
+new entry "OBJ_LIA_LaezelBoots"
+using "MAG_Jumping_Shoes"
+data "RootTemplate" "7eb55d7a-5772-48bf-9a86-36900e753813"
