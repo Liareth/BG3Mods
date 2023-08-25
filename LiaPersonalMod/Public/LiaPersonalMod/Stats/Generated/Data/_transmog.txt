@@ -1,17 +1,17 @@
 new entry "OBJ_LIA_VictoriaArmourA"
-using "ARM_ChainMail_Body"
+using "ARM_RingMail_Body_2"
 data "RootTemplate" "3792914d-fcab-489b-8231-9e0ca6475d19"
 
 new entry "OBJ_LIA_VictoriaArmourB"
-using "ARM_ChainMail_Body"
+using "ARM_RingMail_Body_2"
 data "RootTemplate" "9c2019fb-f07d-40d6-824c-99cbdaceb4ee"
 
 new entry "OBJ_LIA_VictoriaGloves"
-using "MAG_Paladin_LayOnHandsSupport_Gloves"
+using "MAG_ZOC_AdvantageOnMeleeAttackWhileSurounded_Gloves"
 data "RootTemplate" "6160478a-e9f4-4313-b232-050f094543c0"
 
 new entry "OBJ_LIA_VictoriaBoots"
-using "ARM_Shoes"
+using "MAG_Healer_TempHPOnHeal_Boots"
 data "RootTemplate" "d2145d14-8c08-45a1-8040-987dc58de4b7"
 
 new entry "OBJ_LIA_VictoriaCloak"
@@ -19,5 +19,8 @@ using "ARM_Cloak"
 data "RootTemplate" "c1a71633-47d8-4e2d-af55-88a189815c02"
 
 new entry "OBJ_LIA_VictoriaHelm"
-using "ARM_HeadbandOfIntellect"
+using "FOR_OgresForHire_HeadbandOfIntellect"
 data "RootTemplate" "8dc4e217-70a9-4878-83d2-a71580a7228f"
+data "Boosts" "UnlockSpell(Target_SpeakWithDead_Amulet_CHA)"
+data "Charges" "1"
+data "MaxCharges" "1"
