@@ -4,6 +4,7 @@ using "_Container"
 data "RootTemplate" "f25ac393-dbad-4e1a-9e75-522661453347"
 data "ValueOverride" "1"
 data "Weight" "0.1"
+data "Rarity" "Rare"
 
 new entry "OBJ_LIA_ScrollCase"
 type "Object"
