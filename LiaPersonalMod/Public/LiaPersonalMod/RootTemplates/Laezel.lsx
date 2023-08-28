@@ -460,6 +460,16 @@
 						</node>
 					</children>
 				</node>
+				<node id="GameObjects">
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="Name" type="LSString" value="LIA_LaezelLongsword" />
+					<attribute id="Stats" type="FixedString" value="OBJ_LIA_LaezelLongsword" />
+					<attribute id="MapKey" type="FixedString" value="623978ba-8787-4161-aaf3-8701a95d68f6" />
+					<attribute id="ParentTemplateId" type="FixedString" value="907a794b-b089-406b-880d-6f2df2bb3f13" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h53f21c73gee57g4b73g9abeg93dff040b352" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h4928317bg96b0g4937gbeb2gb64e83f8ddf6" version="1" />
+					<children />
+				</node>
 			</children>
 		</node>
 	</region>

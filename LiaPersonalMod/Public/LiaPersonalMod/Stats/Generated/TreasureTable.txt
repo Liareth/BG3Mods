@@ -19,6 +19,8 @@ object category "I_OBJ_LIA_LaezelGloves",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_LIA_LaezelBoots",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_LIA_LaezelLongsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_LIA_MinscArmour",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_LIA_MinscGloves",1,0,0,0,0,0,0,0
