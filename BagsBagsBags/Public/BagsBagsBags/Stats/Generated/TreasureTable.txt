@@ -54,6 +54,12 @@ CanMerge 1
 new subtable "4,1"
 object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
 
+// Act 1, Grat
+new treasuretable "GOB_Festivities_Trader"
+CanMerge 1
+new subtable "4,1"
+object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
+
 // Act 2, Araj Oblodra
 new treasuretable "MOO_InfernalTrader_Trade"
 CanMerge 1
@@ -68,6 +74,12 @@ object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
 
 // Act 3, Danthelon
 new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "4,1"
+object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
+
+// Act 3, Glynda Oltower
+new treasuretable "WYR_Bridge_Trader_Tools"
 CanMerge 1
 new subtable "4,1"
 object category "I_OBJ_LIA_BagsBag",1,0,0,0,0,0,0,0
